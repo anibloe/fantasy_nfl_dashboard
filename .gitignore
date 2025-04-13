@@ -1,0 +1,16 @@
+.DS_Store
+.vscode
+*.webp
+*.svg
+*.png
+*.gif
+*.jpg
+*.zip
+*.jpeg
+*.mp4
+*.psd
+*.eslintrc
+**/__dev/
+tsconfig.json
+**/node_modules
+**/package-lock.json
